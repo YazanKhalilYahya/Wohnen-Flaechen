@@ -1,0 +1,4 @@
+Wohnzimmer 4 5
+Schlafzimmer 5 4.5
+Kueche 4 3.5
+	 
